@@ -1,5 +1,5 @@
 # Mario-tekina-Game
-はじめてのpython
+はじめてのpython  
 
 マリオ的なゲームです。それ以上のことは言いません
 
